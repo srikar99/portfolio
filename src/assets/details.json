@@ -1,0 +1,30 @@
+{
+  "details": [{
+      "skills": {
+        "technologies": ["Core Java", "JavaEE", "Spring", "Spring Boot", "Hibernate", "JPA", "Angular", "ReactJS", "Redux", "jQuery", "Javascript"],
+        "misc": ["Restful Webservices", "SOAP", "API design", "Oracle DB", "MySQL", "Jenkins", "Maven", "Sonar", "GIT", "SVN", "Junit", "Mockito"]
+      }
+    },
+    {
+      "experience": {
+        "mindtree": "Working as a senior software engineer in Mindtree Ltd"
+      }
+    },
+    {
+      "resume": {
+        "pathToResume": ""
+      }
+    },
+    {
+      "contact": {
+        "social": {
+          "linkedIn": "",
+          "github": ""
+        },
+        "email": {
+            "mail1": ""
+        }
+      }
+    }
+  ]
+}
